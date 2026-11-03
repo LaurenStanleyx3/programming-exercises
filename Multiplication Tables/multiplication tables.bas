@@ -1,6 +1,6 @@
 Randomize Timer
 questionLoop = 1
-PRINT "Enter Q to quit"
+PRINT "Enter q to quit"
 While questionLoop = 1
     argOne = Int(Rnd * 10) + 1
     argTwo = Int(Rnd * 10) + 1
